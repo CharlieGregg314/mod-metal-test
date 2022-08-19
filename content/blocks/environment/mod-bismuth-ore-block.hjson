@@ -1,6 +1,0 @@
-type: OreBlock
-name: Bismuth Ore
-itemDrop: mod-bismuth-ore
-oreThreshold: 0.8685170918213297
-oreScale: 23.717071363829998
-oreDefault: true

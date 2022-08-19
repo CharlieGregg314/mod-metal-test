@@ -1,6 +1,0 @@
-type: OreBlock
-name: Chromium Ore
-itemDrop: mod-chromium-ore
-oreThreshold: 0.9016175453195919
-oreScale: 26.16497709275198
-oreDefault: true

@@ -1,6 +1,0 @@
-type: OreBlock
-name: Vanadium Ore
-itemDrop: mod-vanadium-ore
-oreThreshold: 0.8964466094067263
-oreScale: 25.65930571002297
-oreDefault: true

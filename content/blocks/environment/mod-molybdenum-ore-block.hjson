@@ -1,6 +1,0 @@
-type: OreBlock
-name: Molybdenum Ore
-itemDrop: mod-molybdenum-ore
-oreThreshold: 0.8900980486407215
-oreScale: 25.115839842184876
-oreDefault: true

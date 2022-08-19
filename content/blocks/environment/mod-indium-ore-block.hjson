@@ -1,6 +1,0 @@
-type: OreBlock
-name: Indium Ore
-itemDrop: mod-indium-ore
-oreThreshold: 0.8564554715053145
-oreScale: 23.129243234657235
-oreDefault: true

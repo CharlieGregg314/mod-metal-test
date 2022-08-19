@@ -1,6 +1,0 @@
-type: OreBlock
-name: Copper Ore
-itemDrop: mod-copper-ore
-oreThreshold: 0.875
-oreScale: 24.080083823051904
-oreDefault: true

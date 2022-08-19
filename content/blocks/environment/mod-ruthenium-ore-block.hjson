@@ -1,6 +1,0 @@
-type: OreBlock
-name: Ruthenium Ore
-itemDrop: mod-ruthenium-ore
-oreThreshold: 0.8944838874963099
-oreScale: 25.482909883941307
-oreDefault: true

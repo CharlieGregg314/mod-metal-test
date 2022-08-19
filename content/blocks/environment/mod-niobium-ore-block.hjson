@@ -1,6 +1,0 @@
-type: OreBlock
-name: Niobium Ore
-itemDrop: mod-niobium-ore
-oreThreshold: 0.8923747814892349
-oreScale: 25.301927248894625
-oreDefault: true

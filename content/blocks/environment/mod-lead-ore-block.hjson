@@ -1,6 +1,0 @@
-type: OreBlock
-name: Lead Ore
-itemDrop: mod-lead-ore
-oreThreshold: 0.8603796100280632
-oreScale: 23.31037069710445
-oreDefault: true

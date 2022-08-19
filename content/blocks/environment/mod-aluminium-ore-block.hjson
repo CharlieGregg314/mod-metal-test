@@ -1,6 +1,0 @@
-type: OreBlock
-name: Aluminium Ore
-itemDrop: mod-aluminium-ore
-oreThreshold: 0.8729833462074169
-oreScale: 23.962856102634923
-oreDefault: true
