@@ -6,7 +6,7 @@ craftTime: 316.0
 consumes: {
     power: 7.9
     liquid: {
-        liquid: invar
+        liquid: invar-liquid
         amount: 0.1
     }
     items: {

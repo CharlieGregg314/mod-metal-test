@@ -6,7 +6,7 @@ craftTime: 666.0
 consumes: {
     power: 11.1
     liquid: {
-        liquid: invar-carbide
+        liquid: invar-carbide-liquid
         amount: 0.15
     }
     items: {

@@ -6,7 +6,7 @@ craftTime: 552.0
 consumes: {
     power: 13.8
     liquid: {
-        liquid: megallium
+        liquid: megallium-liquid
         amount: 0.1
     }
     items: {

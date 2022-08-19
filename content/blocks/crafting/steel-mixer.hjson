@@ -6,7 +6,7 @@ craftTime: 224.0
 consumes: {
     power: 5.6
     liquid: {
-        liquid: iron
+        liquid: iron-liquid
         amount: 0.1
     }
     items: {
