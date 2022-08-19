@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Nickel Melter
+outputLiquid: mod-nickel-liquid/0.1
+size: 2
+craftTime: 120
+consumes: {
+    power: 4
+    items: [
+        mod-nickel-ore/1
+    ]
+}
+requirements: [
+    mod-iron/40
+    mod-brass/60
+]
+category: crafting

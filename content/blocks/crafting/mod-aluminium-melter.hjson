@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Aluminium Melter
+outputLiquid: mod-aluminium-liquid/0.1
+size: 2
+craftTime: 82.5
+consumes: {
+    power: 2.75
+    items: [
+        mod-aluminium-ore/1
+    ]
+}
+requirements: [
+    mod-iron/40
+    mod-brass/60
+]
+category: crafting

@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Boron Melter
+outputLiquid: mod-boron-liquid/0.1
+size: 4
+craftTime: 282.0
+consumes: {
+    power: 9.4
+    items: [
+        mod-boron-ore/1
+    ]
+}
+requirements: [
+    mod-iron/40
+    mod-brass/60
+]
+category: crafting

@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Psuedo Palladium Mixer
+outputLiquid: mod-psuedo-palladium-liquid/0.1
+size: 3
+craftTime: 260.0
+consumes: {
+    power: 6.5
+    liquids: {
+        liquids: [
+            mod-rhodium-liquid/0.05
+            mod-silver-liquid/0.05
+        ]
+    }
+}
+requirements: [
+    mod-rhodium/50
+    mod-silver/50
+]
+category: crafting

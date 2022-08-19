@@ -1,0 +1,5 @@
+name: Molten Electrum
+color: "123456"
+temperature: 0.8888888888888888
+heatCapacity: 1.6
+effect: melting

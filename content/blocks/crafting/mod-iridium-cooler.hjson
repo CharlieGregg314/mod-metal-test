@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Iridium Cooler
+outputItem: mod-iridium/1
+size: 3
+craftTime: 130.0
+consumes: {
+    power: 6.5
+    liquid: {
+        liquid: mod-iridium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    mod-iron/10
+    mod-brass/40
+]
+category: crafting

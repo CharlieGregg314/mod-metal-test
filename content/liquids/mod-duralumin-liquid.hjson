@@ -1,0 +1,5 @@
+name: Molten Duralumin
+color: "123456"
+temperature: 0.8333333333333334
+heatCapacity: 1.3
+effect: melting

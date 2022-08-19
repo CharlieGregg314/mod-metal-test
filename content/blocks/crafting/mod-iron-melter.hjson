@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Iron Melter
+outputLiquid: mod-iron-liquid/0.1
+size: 2
+craftTime: 120
+consumes: {
+    power: 4
+    items: [
+        mod-iron-ore/1
+    ]
+}
+requirements: [
+    mod-copper/40
+    mod-tin/60
+]
+category: crafting

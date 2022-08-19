@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Duralumin Mixer
+outputLiquid: mod-duralumin-liquid/0.1
+size: 2
+craftTime: 160.0
+consumes: {
+    power: 4.0
+    liquids: {
+        liquids: [
+            mod-aluminium-liquid/0.05
+            mod-copper-liquid/0.05
+        ]
+    }
+}
+requirements: [
+    mod-aluminium/50
+    mod-copper/50
+]
+category: crafting

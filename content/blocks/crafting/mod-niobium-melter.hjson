@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Niobium Melter
+outputLiquid: mod-niobium-liquid/0.1
+size: 3
+craftTime: 180
+consumes: {
+    power: 6
+    items: [
+        mod-niobium-ore/1
+    ]
+}
+requirements: [
+    mod-iron/40
+    mod-brass/60
+]
+category: crafting

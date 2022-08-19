@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Latonium Cooler
+outputItem: mod-latonium/1
+size: 4
+craftTime: 499.5
+consumes: {
+    power: 11.1
+    liquids: {
+        liquids: [
+            mod-latonium-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    Graphite/60
+    mod-invar-carbide/20
+]
+category: crafting

@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Chromium Melter
+outputLiquid: mod-chromium-liquid/0.1
+size: 3
+craftTime: 255.0
+consumes: {
+    power: 8.5
+    items: [
+        mod-chromium-ore/1
+    ]
+}
+requirements: [
+    mod-iron/40
+    mod-brass/60
+]
+category: crafting

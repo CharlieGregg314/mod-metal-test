@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Tin Melter
+outputLiquid: mod-tin-liquid/0.1
+size: 2
+craftTime: 45.0
+consumes: {
+    power: 1.5
+    items: [
+        mod-tin-ore/1
+    ]
+}
+requirements: [
+    mod-wood/40
+    mod-stone/60
+]
+category: crafting

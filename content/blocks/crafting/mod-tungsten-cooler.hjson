@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Tungsten Cooler
+outputItem: mod-tungsten/1
+size: 3
+craftTime: 150.0
+consumes: {
+    power: 7.5
+    liquid: {
+        liquid: mod-tungsten-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    mod-iron/10
+    mod-brass/40
+]
+category: crafting

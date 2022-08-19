@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Galfenol Mixer
+outputLiquid: mod-galfenol-liquid/0.1
+size: 2
+craftTime: 168.0
+consumes: {
+    power: 4.2
+    liquids: {
+        liquids: [
+            mod-gallium-liquid/0.05
+            mod-iron-liquid/0.05
+        ]
+    }
+}
+requirements: [
+    mod-gallium/50
+    mod-iron/50
+]
+category: crafting

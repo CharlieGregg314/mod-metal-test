@@ -1,0 +1,6 @@
+type: OreBlock
+name: Iron Ore
+itemDrop: mod-iron-ore
+oreThreshold: 0.8819660112501051
+oreScale: 24.519842099789745
+oreDefault: true

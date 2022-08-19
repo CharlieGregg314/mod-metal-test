@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Molybdenum Melter
+outputLiquid: mod-molybdenum-liquid/0.1
+size: 2
+craftTime: 165.0
+consumes: {
+    power: 5.5
+    items: [
+        mod-molybdenum-ore/1
+    ]
+}
+requirements: [
+    mod-iron/40
+    mod-brass/60
+]
+category: crafting

@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Titanium Cooler
+outputItem: mod-titanium/1
+size: 3
+craftTime: 120
+consumes: {
+    power: 6
+    liquid: {
+        liquid: mod-titanium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    mod-iron/10
+    mod-brass/40
+]
+category: crafting

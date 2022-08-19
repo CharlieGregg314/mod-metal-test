@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Invar Carbide Cooler
+outputItem: mod-invar-carbide/1
+size: 3
+craftTime: 237.0
+consumes: {
+    power: 7.9
+    liquids: {
+        liquids: [
+            mod-invar-carbide-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    Graphite/60
+    mod-invar/20
+]
+category: crafting

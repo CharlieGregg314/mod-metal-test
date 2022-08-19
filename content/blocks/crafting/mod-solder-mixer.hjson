@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Solder Mixer
+outputLiquid: mod-solder-liquid/0.1
+size: 2
+craftTime: 84.0
+consumes: {
+    power: 2.1
+    liquids: {
+        liquids: [
+            mod-lead-liquid/0.05
+            mod-tin-liquid/0.05
+        ]
+    }
+}
+requirements: [
+    mod-lead/50
+    mod-tin/50
+]
+category: crafting

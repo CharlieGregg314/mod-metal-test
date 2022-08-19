@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Hepatizon Mixer
+outputLiquid: mod-hepatizon-liquid/0.1
+size: 2
+craftTime: 184.0
+consumes: {
+    power: 4.6
+    liquids: {
+        liquids: [
+            mod-copper-liquid/0.05
+            mod-electrum-liquid/0.05
+        ]
+    }
+}
+requirements: [
+    mod-copper/50
+    mod-electrum/50
+]
+category: crafting

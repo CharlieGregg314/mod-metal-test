@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: Latonium Mixer
+outputLiquid: mod-latonium-liquid/0.2
+size: 4
+craftTime: 666.0
+consumes: {
+    power: 11.1
+    liquid: {
+        liquid: mod-invar-carbide
+        amount: 0.15
+    }
+    items: {
+        items: [
+            Graphite/1
+        ]
+    }
+}
+requirements: [
+    Graphite/50
+    mod-invar-carbide/50
+]
+category: crafting

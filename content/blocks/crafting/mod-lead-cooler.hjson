@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Lead Cooler
+outputItem: mod-lead/1
+size: 2
+craftTime: 30.0
+consumes: {
+    power: 1.5
+    liquid: {
+        liquid: mod-lead-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    mod-iron/10
+    mod-brass/40
+]
+category: crafting

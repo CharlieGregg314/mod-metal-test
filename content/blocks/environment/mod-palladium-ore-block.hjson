@@ -1,0 +1,6 @@
+type: OreBlock
+name: Palladium Ore
+itemDrop: mod-palladium-ore
+oreThreshold: 0.8863097823838972
+oreScale: 24.825719658980262
+oreDefault: true

@@ -1,0 +1,8 @@
+name: "mod-metal-test"
+displayName: "Metal Test"
+author: "CharlieGregg314"
+description: ""
+version: "1.0"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: false

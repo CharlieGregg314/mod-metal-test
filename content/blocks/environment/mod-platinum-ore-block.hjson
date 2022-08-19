@@ -1,0 +1,6 @@
+type: OreBlock
+name: Platinum Ore
+itemDrop: mod-platinum-ore
+oreThreshold: 0.8786796564403574
+oreScale: 24.305218146029222
+oreDefault: true

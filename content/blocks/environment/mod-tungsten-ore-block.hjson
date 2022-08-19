@@ -1,0 +1,6 @@
+type: OreBlock
+name: Tungsten Ore
+itemDrop: mod-tungsten-ore
+oreThreshold: 0.8982804502863722
+oreScale: 25.831547161967766
+oreDefault: true
