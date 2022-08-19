@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Boron Cooler
+outputItem: boron/1
+size: 4
+craftTime: 188.0
+consumes: {
+    power: 9.4
+    liquid: {
+        liquid: boron-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    ferrochrome/10
+    chromel/40
+]
+category: crafting

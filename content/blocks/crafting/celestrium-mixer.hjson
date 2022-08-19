@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Celestrium Mixer
+outputLiquid: celestrium-liquid/0.1
+size: 4
+craftTime: 864.0
+consumes: {
+    power: 10.8
+    liquids: {
+        liquids: [
+            steel-liquid/0.08
+            nichrome-liquid/0.12
+        ]
+    }
+}
+requirements: [
+    steel/50
+    nichrome/50
+]
+category: crafting

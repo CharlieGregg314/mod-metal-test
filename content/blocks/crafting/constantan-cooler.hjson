@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Constantan Cooler
+outputItem: constantan/1
+size: 2
+craftTime: 150.0
+consumes: {
+    power: 5.0
+    liquids: {
+        liquids: [
+            constantan-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    copper/60
+    nickel/20
+]
+category: crafting

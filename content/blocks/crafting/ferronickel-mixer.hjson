@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Ferronickel Mixer
+outputLiquid: ferronickel-liquid/0.1
+size: 2
+craftTime: 336.0
+consumes: {
+    power: 5.6
+    liquids: {
+        liquids: [
+            nickel-liquid/0.08
+            iron-liquid/0.06999999999999999
+        ]
+    }
+}
+requirements: [
+    nickel/50
+    iron/50
+]
+category: crafting

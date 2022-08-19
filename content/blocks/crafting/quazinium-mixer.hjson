@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Quazinium Mixer
+outputLiquid: quazinium-liquid/0.1
+size: 5
+craftTime: 1528.0
+consumes: {
+    power: 19.1
+    liquids: {
+        liquids: [
+            galaxium-liquid/0.1
+            stellite-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    galaxium/50
+    stellite/50
+]
+category: crafting

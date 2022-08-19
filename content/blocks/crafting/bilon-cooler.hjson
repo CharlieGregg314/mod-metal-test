@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Bilon Cooler
+outputItem: bilon/1
+size: 2
+craftTime: 117.0
+consumes: {
+    power: 3.9
+    liquids: {
+        liquids: [
+            bilon-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    copper/60
+    silver/20
+]
+category: crafting

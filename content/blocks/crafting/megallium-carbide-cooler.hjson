@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Megallium Carbide Cooler
+outputItem: megallium-carbide/1
+size: 4
+craftTime: 414.0
+consumes: {
+    power: 13.8
+    liquids: {
+        liquids: [
+            megallium-carbide-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    graphite/60
+    megallium/20
+]
+category: crafting

@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Chromel Cooler
+outputItem: chromel/1
+size: 4
+craftTime: 279.0
+consumes: {
+    power: 9.3
+    liquids: {
+        liquids: [
+            chromel-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    nickel/60
+    chromium/20
+]
+category: crafting

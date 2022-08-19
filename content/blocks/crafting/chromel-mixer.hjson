@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Chromel Mixer
+outputLiquid: chromel-liquid/0.1
+size: 4
+craftTime: 372.0
+consumes: {
+    power: 9.3
+    liquids: {
+        liquids: [
+            nickel-liquid/0.09
+            chromium-liquid/0.009999999999999998
+        ]
+    }
+}
+requirements: [
+    nickel/50
+    chromium/50
+]
+category: crafting

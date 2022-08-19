@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Megallium Mixer
+outputLiquid: megallium-liquid/0.1
+size: 4
+craftTime: 392.0
+consumes: {
+    power: 9.8
+    liquids: {
+        liquids: [
+            cobalt-liquid/0.06999999999999999
+            chromium-liquid/0.030000000000000006
+        ]
+    }
+}
+requirements: [
+    cobalt/50
+    chromium/50
+]
+category: crafting

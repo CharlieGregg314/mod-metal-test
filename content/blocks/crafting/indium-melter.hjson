@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Indium Melter
+outputLiquid: indium-liquid/0.1
+size: 2
+craftTime: 36.0
+consumes: {
+    power: 1.2
+    items: [
+        indium-ore/1
+    ]
+}
+requirements: [
+    silicon/40
+    graphite/60
+]
+category: crafting

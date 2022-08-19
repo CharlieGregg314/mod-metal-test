@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Platinum Cooler
+outputItem: platinum/1
+size: 2
+craftTime: 70.0
+consumes: {
+    power: 3.5
+    liquid: {
+        liquid: platinum-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    gold/10
+    silver/40
+]
+category: crafting

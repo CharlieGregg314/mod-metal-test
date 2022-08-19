@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Ferronickel Cooler
+outputItem: ferronickel/1
+size: 2
+craftTime: 252.0
+consumes: {
+    power: 5.6
+    liquids: {
+        liquids: [
+            ferronickel-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    nickel/60
+    iron/20
+]
+category: crafting

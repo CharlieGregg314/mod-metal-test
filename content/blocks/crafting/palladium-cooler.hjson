@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Palladium Cooler
+outputItem: palladium/1
+size: 2
+craftTime: 95.0
+consumes: {
+    power: 4.75
+    liquid: {
+        liquid: palladium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    nickel/10
+    magnesium/40
+]
+category: crafting

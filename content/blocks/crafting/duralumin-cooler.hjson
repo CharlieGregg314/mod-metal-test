@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Duralumin Cooler
+outputItem: duralumin/1
+size: 2
+craftTime: 120.0
+consumes: {
+    power: 4.0
+    liquids: {
+        liquids: [
+            duralumin-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    aluminium/60
+    copper/20
+]
+category: crafting

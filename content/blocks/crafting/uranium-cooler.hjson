@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Uranium Cooler
+outputItem: uranium/1
+size: 3
+craftTime: 120
+consumes: {
+    power: 6
+    liquid: {
+        liquid: uranium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    iron/10
+    brass/40
+]
+category: crafting

@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Vanadium Cooler
+outputItem: vanadium/1
+size: 3
+craftTime: 140
+consumes: {
+    power: 7
+    liquid: {
+        liquid: vanadium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    iridium/10
+    titanium/40
+]
+category: crafting

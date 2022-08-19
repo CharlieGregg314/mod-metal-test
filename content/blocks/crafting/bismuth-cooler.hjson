@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Bismuth Cooler
+outputItem: bismuth/1
+size: 2
+craftTime: 45.0
+consumes: {
+    power: 2.25
+    liquid: {
+        liquid: bismuth-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    cadmium/10
+    gallium/40
+]
+category: crafting

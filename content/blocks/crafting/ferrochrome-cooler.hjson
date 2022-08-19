@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Ferrochrome Cooler
+outputItem: ferrochrome/1
+size: 4
+craftTime: 279.0
+consumes: {
+    power: 9.3
+    liquids: {
+        liquids: [
+            ferrochrome-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    chromium/60
+    iron/20
+]
+category: crafting

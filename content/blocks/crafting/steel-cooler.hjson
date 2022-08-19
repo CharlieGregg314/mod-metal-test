@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Steel Cooler
+outputItem: steel/1
+size: 2
+craftTime: 168.0
+consumes: {
+    power: 5.6
+    liquids: {
+        liquids: [
+            steel-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    graphite/60
+    iron/20
+]
+category: crafting

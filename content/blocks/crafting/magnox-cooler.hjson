@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Magnox Cooler
+outputItem: magnox/1
+size: 2
+craftTime: 111.888
+consumes: {
+    power: 3.7
+    liquids: {
+        liquids: [
+            magnox-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    magnesium/60
+    aluminium/20
+]
+category: crafting

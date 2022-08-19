@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Bismanol Mixer
+outputLiquid: bismanol-liquid/0.1
+size: 3
+craftTime: 256.0
+consumes: {
+    power: 6.4
+    liquids: {
+        liquids: [
+            bismuth-liquid/0.05
+            manganese-liquid/0.05
+        ]
+    }
+}
+requirements: [
+    bismuth/50
+    manganese/50
+]
+category: crafting

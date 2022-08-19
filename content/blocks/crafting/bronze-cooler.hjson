@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Bronze Cooler
+outputItem: bronze/1
+size: 2
+craftTime: 99.0
+consumes: {
+    power: 3.3
+    liquids: {
+        liquids: [
+            bronze-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    copper/60
+    tin/20
+]
+category: crafting

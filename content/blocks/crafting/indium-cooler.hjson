@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Indium Cooler
+outputItem: indium/1
+size: 2
+craftTime: 24.0
+consumes: {
+    power: 1.2
+    liquid: {
+        liquid: indium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    silicon/10
+    graphite/40
+]
+category: crafting

@@ -1,0 +1,5 @@
+name: Molten Nickel
+color: "123456"
+temperature: 0.8333333333333334
+heatCapacity: 1.2000000000000002
+effect: melting

@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Chromium Melter
+outputLiquid: chromium-liquid/0.1
+size: 3
+craftTime: 255.0
+consumes: {
+    power: 8.5
+    items: [
+        chromium-ore/1
+    ]
+}
+requirements: [
+    psuedo-palladium/40
+    hepatizon/60
+]
+category: crafting

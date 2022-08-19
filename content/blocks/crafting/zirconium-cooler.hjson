@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Zirconium Cooler
+outputItem: zirconium/1
+size: 2
+craftTime: 100
+consumes: {
+    power: 5
+    liquid: {
+        liquid: zirconium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    palladium/10
+    bronze/40
+]
+category: crafting

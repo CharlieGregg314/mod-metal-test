@@ -1,0 +1,6 @@
+type: OreBlock
+name: Cadmium Ore
+itemDrop: cadmium-ore
+oreThreshold: 0.8660254037844386
+oreScale: 23.5874010519682
+oreDefault: true

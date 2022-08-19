@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Lead Cooler
+outputItem: lead/1
+size: 2
+craftTime: 30.0
+consumes: {
+    power: 1.5
+    liquid: {
+        liquid: lead-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    graphite/10
+    indium/40
+]
+category: crafting

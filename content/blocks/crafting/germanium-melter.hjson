@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Germanium Melter
+outputLiquid: germanium-liquid/0.1
+size: 3
+craftTime: 180
+consumes: {
+    power: 6
+    items: [
+        germanium-ore/1
+    ]
+}
+requirements: [
+    palladium/40
+    electrum/60
+]
+category: crafting

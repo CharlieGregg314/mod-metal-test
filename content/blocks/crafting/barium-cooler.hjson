@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Barium Cooler
+outputItem: barium/1
+size: 2
+craftTime: 25.0
+consumes: {
+    power: 1.25
+    liquid: {
+        liquid: barium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    silicon/10
+    graphite/40
+]
+category: crafting

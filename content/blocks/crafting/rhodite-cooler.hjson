@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Rhodite Cooler
+outputItem: rhodite/1
+size: 3
+craftTime: 195.0
+consumes: {
+    power: 6.5
+    liquids: {
+        liquids: [
+            rhodite-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    gold/60
+    rhodium/20
+]
+category: crafting

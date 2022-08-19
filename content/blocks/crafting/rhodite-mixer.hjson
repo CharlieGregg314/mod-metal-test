@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Rhodite Mixer
+outputLiquid: rhodite-liquid/0.1
+size: 3
+craftTime: 260.0
+consumes: {
+    power: 6.5
+    liquids: {
+        liquids: [
+            gold-liquid/0.06
+            rhodium-liquid/0.04
+        ]
+    }
+}
+requirements: [
+    gold/50
+    rhodium/50
+]
+category: crafting

@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Quazinium Cooler
+outputItem: quazinium/1
+size: 5
+craftTime: 1146.0
+consumes: {
+    power: 19.1
+    liquids: {
+        liquids: [
+            quazinium-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    galaxium/60
+    stellite/20
+]
+category: crafting

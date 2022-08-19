@@ -1,0 +1,5 @@
+name: Molten Constantan
+color: "123456"
+temperature: 0.8571428571428572
+heatCapacity: 1.4
+effect: melting

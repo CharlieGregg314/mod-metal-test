@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Stellite Cooler
+outputItem: stellite/1
+size: 5
+craftTime: 471.0
+consumes: {
+    power: 15.7
+    liquids: {
+        liquids: [
+            stellite-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    megallium-carbide/60
+    tungsten/20
+]
+category: crafting

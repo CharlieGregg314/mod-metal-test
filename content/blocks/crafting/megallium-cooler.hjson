@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Megallium Cooler
+outputItem: megallium/1
+size: 4
+craftTime: 294.0
+consumes: {
+    power: 9.8
+    liquids: {
+        liquids: [
+            megallium-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    cobalt/60
+    chromium/20
+]
+category: crafting

@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Celestrium Cooler
+outputItem: celestrium/1
+size: 4
+craftTime: 648.0
+consumes: {
+    power: 10.8
+    liquids: {
+        liquids: [
+            celestrium-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    steel/60
+    nichrome/20
+]
+category: crafting

@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Tungsten Cooler
+outputItem: tungsten/1
+size: 3
+craftTime: 150.0
+consumes: {
+    power: 7.5
+    liquid: {
+        liquid: tungsten-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    iridium/10
+    duralumin/40
+]
+category: crafting

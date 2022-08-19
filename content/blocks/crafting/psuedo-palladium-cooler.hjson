@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Psuedo Palladium Cooler
+outputItem: psuedo-palladium/1
+size: 3
+craftTime: 195.0
+consumes: {
+    power: 6.5
+    liquids: {
+        liquids: [
+            psuedo-palladium-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    rhodium/60
+    silver/20
+]
+category: crafting

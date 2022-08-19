@@ -1,0 +1,6 @@
+type: OreBlock
+name: Zinc Ore
+itemDrop: zinc-ore
+oreThreshold: 0.8708286933869707
+oreScale: 23.842015749320193
+oreDefault: true

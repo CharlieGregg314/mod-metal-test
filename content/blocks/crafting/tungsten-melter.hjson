@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Tungsten Melter
+outputLiquid: tungsten-liquid/0.1
+size: 3
+craftTime: 225.0
+consumes: {
+    power: 7.5
+    items: [
+        tungsten-ore/1
+    ]
+}
+requirements: [
+    iridium/40
+    duralumin/60
+]
+category: crafting

@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Thorium Melter
+outputLiquid: thorium-liquid/0.1
+size: 2
+craftTime: 90
+consumes: {
+    power: 3
+    items: [
+        thorium-ore/1
+    ]
+}
+requirements: [
+    rose-metal/40
+    silver/60
+]
+category: crafting

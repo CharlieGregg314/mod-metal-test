@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Palladium Melter
+outputLiquid: palladium-liquid/0.1
+size: 2
+craftTime: 142.5
+consumes: {
+    power: 4.75
+    items: [
+        palladium-ore/1
+    ]
+}
+requirements: [
+    nickel/40
+    magnesium/60
+]
+category: crafting

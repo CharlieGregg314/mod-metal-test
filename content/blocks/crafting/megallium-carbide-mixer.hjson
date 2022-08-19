@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: Megallium Carbide Mixer
+outputLiquid: megallium-carbide-liquid/0.13999999999999999
+size: 4
+craftTime: 552.0
+consumes: {
+    power: 13.8
+    liquid: {
+        liquid: megallium
+        amount: 0.1
+    }
+    items: {
+        items: [
+            graphite/1
+        ]
+    }
+}
+requirements: [
+    graphite/50
+    megallium/50
+]
+category: crafting

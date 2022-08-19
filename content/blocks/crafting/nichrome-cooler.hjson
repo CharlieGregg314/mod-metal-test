@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Nichrome Cooler
+outputItem: nichrome/1
+size: 4
+craftTime: 279.0
+consumes: {
+    power: 9.3
+    liquids: {
+        liquids: [
+            nichrome-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    chromium/60
+    nickel/20
+]
+category: crafting

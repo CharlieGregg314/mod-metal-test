@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Constantan Mixer
+outputLiquid: constantan-liquid/0.1
+size: 2
+craftTime: 200.0
+consumes: {
+    power: 5.0
+    liquids: {
+        liquids: [
+            copper-liquid/0.05500000000000001
+            nickel-liquid/0.045
+        ]
+    }
+}
+requirements: [
+    copper/50
+    nickel/50
+]
+category: crafting

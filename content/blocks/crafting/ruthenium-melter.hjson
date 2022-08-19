@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Ruthenium Melter
+outputLiquid: ruthenium-liquid/0.1
+size: 3
+craftTime: 195.0
+consumes: {
+    power: 6.5
+    items: [
+        ruthenium-ore/1
+    ]
+}
+requirements: [
+    zirconium/40
+    magnox/60
+]
+category: crafting

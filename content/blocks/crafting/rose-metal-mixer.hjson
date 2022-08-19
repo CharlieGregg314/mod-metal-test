@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Rose Metal Mixer
+outputLiquid: rose-metal-liquid/0.1
+size: 2
+craftTime: 180.0
+consumes: {
+    power: 3.0
+    liquids: {
+        liquids: [
+            bismuth-liquid/0.05
+            solder-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    bismuth/50
+    solder/50
+]
+category: crafting

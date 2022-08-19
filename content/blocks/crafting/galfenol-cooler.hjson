@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Galfenol Cooler
+outputItem: galfenol/1
+size: 2
+craftTime: 126.0
+consumes: {
+    power: 4.2
+    liquids: {
+        liquids: [
+            galfenol-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    gallium/60
+    iron/20
+]
+category: crafting

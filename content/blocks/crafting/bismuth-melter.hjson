@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Bismuth Melter
+outputLiquid: bismuth-liquid/0.1
+size: 2
+craftTime: 67.5
+consumes: {
+    power: 2.25
+    items: [
+        bismuth-ore/1
+    ]
+}
+requirements: [
+    cadmium/40
+    gallium/60
+]
+category: crafting

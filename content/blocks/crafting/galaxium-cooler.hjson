@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Galaxium Cooler
+outputItem: galaxium/1
+size: 4
+craftTime: 660.0
+consumes: {
+    power: 11.0
+    liquids: {
+        liquids: [
+            galaxium-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    celestrium/60
+    bismuth/20
+]
+category: crafting

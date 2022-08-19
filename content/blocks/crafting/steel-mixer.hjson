@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: Steel Mixer
+outputLiquid: steel-liquid/0.12
+size: 2
+craftTime: 224.0
+consumes: {
+    power: 5.6
+    liquid: {
+        liquid: iron
+        amount: 0.1
+    }
+    items: {
+        items: [
+            graphite/1
+        ]
+    }
+}
+requirements: [
+    graphite/50
+    iron/50
+]
+category: crafting

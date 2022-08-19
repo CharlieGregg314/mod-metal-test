@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Electrum Mixer
+outputLiquid: electrum-liquid/0.1
+size: 2
+craftTime: 280.0
+consumes: {
+    power: 3.5
+    liquids: {
+        liquids: [
+            gold-liquid/0.05
+            silver-liquid/0.15
+        ]
+    }
+}
+requirements: [
+    gold/50
+    silver/50
+]
+category: crafting

@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Cadmium Melter
+outputLiquid: cadmium-liquid/0.1
+size: 2
+craftTime: 60
+consumes: {
+    power: 2
+    items: [
+        cadmium-ore/1
+    ]
+}
+requirements: [
+    lead/40
+    tin/60
+]
+category: crafting

@@ -1,0 +1,6 @@
+type: OreBlock
+name: Zirconium Ore
+itemDrop: zirconium-ore
+oreThreshold: 0.8876275643042055
+oreScale: 24.924017738212868
+oreDefault: true

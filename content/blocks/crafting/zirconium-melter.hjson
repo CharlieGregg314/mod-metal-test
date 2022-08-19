@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Zirconium Melter
+outputLiquid: zirconium-liquid/0.1
+size: 2
+craftTime: 150
+consumes: {
+    power: 5
+    items: [
+        zirconium-ore/1
+    ]
+}
+requirements: [
+    palladium/40
+    bronze/60
+]
+category: crafting

@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: Invar Carbide Mixer
+outputLiquid: invar-carbide-liquid/0.13999999999999999
+size: 3
+craftTime: 316.0
+consumes: {
+    power: 7.9
+    liquid: {
+        liquid: invar
+        amount: 0.1
+    }
+    items: {
+        items: [
+            graphite/1
+        ]
+    }
+}
+requirements: [
+    graphite/50
+    invar/50
+]
+category: crafting

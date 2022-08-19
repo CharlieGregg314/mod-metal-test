@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Silver Melter
+outputLiquid: silver-liquid/0.1
+size: 2
+craftTime: 75.0
+consumes: {
+    power: 2.5
+    items: [
+        silver-ore/1
+    ]
+}
+requirements: [
+    zinc/40
+    gallium/60
+]
+category: crafting

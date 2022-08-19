@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Nickel Cooler
+outputItem: nickel/1
+size: 2
+craftTime: 80
+consumes: {
+    power: 4
+    liquid: {
+        liquid: nickel-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    iron/10
+    copper/40
+]
+category: crafting

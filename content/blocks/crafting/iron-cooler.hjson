@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Iron Cooler
+outputItem: iron/1
+size: 2
+craftTime: 80
+consumes: {
+    power: 4
+    liquid: {
+        liquid: iron-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    aluminium/10
+    copper/40
+]
+category: crafting

@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Iridium Melter
+outputLiquid: iridium-liquid/0.1
+size: 3
+craftTime: 195.0
+consumes: {
+    power: 6.5
+    items: [
+        iridium-ore/1
+    ]
+}
+requirements: [
+    bismanol/40
+    galfenol/60
+]
+category: crafting

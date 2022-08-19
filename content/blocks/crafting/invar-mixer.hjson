@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Invar Mixer
+outputLiquid: invar-liquid/0.1
+size: 2
+craftTime: 224.0
+consumes: {
+    power: 5.6
+    liquids: {
+        liquids: [
+            iron-liquid/0.06
+            nickel-liquid/0.04
+        ]
+    }
+}
+requirements: [
+    iron/50
+    nickel/50
+]
+category: crafting

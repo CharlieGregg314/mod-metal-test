@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Cobalt Melter
+outputLiquid: cobalt-liquid/0.1
+size: 2
+craftTime: 150
+consumes: {
+    power: 5
+    items: [
+        cobalt-ore/1
+    ]
+}
+requirements: [
+    thorium/40
+    iron/60
+]
+category: crafting

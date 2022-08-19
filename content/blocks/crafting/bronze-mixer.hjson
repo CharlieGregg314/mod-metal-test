@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Bronze Mixer
+outputLiquid: bronze-liquid/0.1
+size: 2
+craftTime: 132.0
+consumes: {
+    power: 3.3
+    liquids: {
+        liquids: [
+            copper-liquid/0.08499999999999999
+            tin-liquid/0.015000000000000003
+        ]
+    }
+}
+requirements: [
+    copper/50
+    tin/50
+]
+category: crafting

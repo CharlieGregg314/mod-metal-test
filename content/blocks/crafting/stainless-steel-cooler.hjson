@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Stainless Steel Cooler
+outputItem: stainless-steel/1
+size: 4
+craftTime: 324.0
+consumes: {
+    power: 10.8
+    liquids: {
+        liquids: [
+            stainless-steel-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    steel/60
+    nichrome/20
+]
+category: crafting

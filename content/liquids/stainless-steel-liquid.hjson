@@ -1,0 +1,5 @@
+name: Molten Stainless Steel
+color: "123456"
+temperature: 0.921875
+heatCapacity: 1.98
+effect: melting

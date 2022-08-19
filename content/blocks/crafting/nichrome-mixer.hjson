@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Nichrome Mixer
+outputLiquid: nichrome-liquid/0.1
+size: 4
+craftTime: 372.0
+consumes: {
+    power: 9.3
+    liquids: {
+        liquids: [
+            chromium-liquid/0.06
+            nickel-liquid/0.04
+        ]
+    }
+}
+requirements: [
+    chromium/50
+    nickel/50
+]
+category: crafting

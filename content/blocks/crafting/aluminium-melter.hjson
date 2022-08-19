@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Aluminium Melter
+outputLiquid: aluminium-liquid/0.1
+size: 2
+craftTime: 82.5
+consumes: {
+    power: 2.75
+    items: [
+        aluminium-ore/1
+    ]
+}
+requirements: [
+    tin/40
+    magnesium/60
+]
+category: crafting

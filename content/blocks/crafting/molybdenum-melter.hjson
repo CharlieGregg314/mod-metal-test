@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Molybdenum Melter
+outputLiquid: molybdenum-liquid/0.1
+size: 2
+craftTime: 165.0
+consumes: {
+    power: 5.5
+    items: [
+        molybdenum-ore/1
+    ]
+}
+requirements: [
+    zirconium/40
+    platinum/60
+]
+category: crafting

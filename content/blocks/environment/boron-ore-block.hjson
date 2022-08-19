@@ -1,0 +1,6 @@
+type: OreBlock
+name: Boron Ore
+itemDrop: boron-ore
+oreThreshold: 0.9043044453656703
+oreScale: 26.454017329131915
+oreDefault: true

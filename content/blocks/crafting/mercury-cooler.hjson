@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Mercury Cooler
+outputItem: mercury/1
+size: 2
+craftTime: 30.0
+consumes: {
+    power: 1.5
+    liquid: {
+        liquid: mercury-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    graphite/10
+    silicon/40
+]
+category: crafting

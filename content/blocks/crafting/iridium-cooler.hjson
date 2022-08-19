@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Iridium Cooler
+outputItem: iridium/1
+size: 3
+craftTime: 130.0
+consumes: {
+    power: 6.5
+    liquid: {
+        liquid: iridium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    bismanol/10
+    galfenol/40
+]
+category: crafting

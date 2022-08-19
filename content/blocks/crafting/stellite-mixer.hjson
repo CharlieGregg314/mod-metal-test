@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Stellite Mixer
+outputLiquid: stellite-liquid/0.1
+size: 5
+craftTime: 628.0
+consumes: {
+    power: 15.7
+    liquids: {
+        liquids: [
+            megallium-carbide-liquid/0.08
+            tungsten-liquid/0.019999999999999997
+        ]
+    }
+}
+requirements: [
+    megallium-carbide/50
+    tungsten/50
+]
+category: crafting

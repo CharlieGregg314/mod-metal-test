@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Magnox Mixer
+outputLiquid: magnox-liquid/0.1
+size: 2
+craftTime: 149.184
+consumes: {
+    power: 3.7
+    liquids: {
+        liquids: [
+            magnesium-liquid/0.1
+            aluminium-liquid/0.0008000000000000007
+        ]
+    }
+}
+requirements: [
+    magnesium/50
+    aluminium/50
+]
+category: crafting

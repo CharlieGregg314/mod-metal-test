@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Stainless Steel Mixer
+outputLiquid: stainless-steel-liquid/0.1
+size: 4
+craftTime: 432.0
+consumes: {
+    power: 10.8
+    liquids: {
+        liquids: [
+            steel-liquid/0.06999999999999999
+            nichrome-liquid/0.030000000000000006
+        ]
+    }
+}
+requirements: [
+    steel/50
+    nichrome/50
+]
+category: crafting

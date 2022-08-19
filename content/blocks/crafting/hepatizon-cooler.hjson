@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Hepatizon Cooler
+outputItem: hepatizon/1
+size: 2
+craftTime: 138.0
+consumes: {
+    power: 4.6
+    liquids: {
+        liquids: [
+            hepatizon-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    copper/60
+    electrum/20
+]
+category: crafting

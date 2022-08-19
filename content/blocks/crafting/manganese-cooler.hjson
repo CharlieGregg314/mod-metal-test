@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Manganese Cooler
+outputItem: manganese/1
+size: 3
+craftTime: 120
+consumes: {
+    power: 6
+    liquid: {
+        liquid: manganese-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    magnesium/10
+    rose-metal/40
+]
+category: crafting

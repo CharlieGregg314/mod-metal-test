@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Ruthenium Cooler
+outputItem: ruthenium/1
+size: 3
+craftTime: 130.0
+consumes: {
+    power: 6.5
+    liquid: {
+        liquid: ruthenium-liquid
+        amount: 0.1
+    }
+}
+requirements: [
+    zirconium/10
+    magnox/40
+]
+category: crafting

@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: Bismanol Cooler
+outputItem: bismanol/1
+size: 3
+craftTime: 192.0
+consumes: {
+    power: 6.4
+    liquids: {
+        liquids: [
+            bismanol-liquid/0.1
+        ]
+    }
+}
+requirements: [
+    bismuth/60
+    manganese/20
+]
+category: crafting
